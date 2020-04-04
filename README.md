@@ -1,2 +1,2 @@
 # TicTacToe
-A common version of Tic Tac Toe.
+A common version of Tic Tac Toe. (w/ GUI)
